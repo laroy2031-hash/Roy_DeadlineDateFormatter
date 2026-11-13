@@ -1,1 +1,10 @@
+event_title = input("Enter event title: ")
+year = input("Enter year: ")
+month = input("Enter month: ")
+day = input("Enter day: ")
 
+print("Formatted Output:")
+print("Event", event_title)
+print("Year", year)
+print("month", month)
+print("Day", day)
